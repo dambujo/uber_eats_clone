@@ -13,6 +13,8 @@ const styles = StyleSheet.create({
   },
   headerTitle: {
     color: 'white',
+    fontSize: 15,
+    fontWeight: '900',
   },
 });
 
